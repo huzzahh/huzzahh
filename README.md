@@ -1,6 +1,6 @@
 # E ai dev 👋
 
-Olá, me chamo Julia Martins. Sou uma profissional apaixonada pela tecnologia e com mais de 6 anos de experiência na área. Tenho habilidades em JavaScript, TypeScript, C#, Adobe XD e nos ecossistema dos frameworks relacionados a JavaScript, como Vue, Nuxt e Angular.
+Olá, me chamo Julia Martins. Sou uma profissional apaixonada pela tecnologia e com mais de 6 anos de experiência na área. Tenho habilidades em JavaScript, TypeScript, C# e nos ecossistema dos frameworks relacionados a JavaScript, como Vue, Nuxt e Angular.
 
 Me mantenho sempre em movimento, buscando aprender e evoluir constantemente. Acredito que podemos ser a transformação que queremos ver no mundo.
 
